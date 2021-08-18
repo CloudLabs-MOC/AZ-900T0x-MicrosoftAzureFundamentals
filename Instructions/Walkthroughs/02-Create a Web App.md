@@ -62,7 +62,7 @@ In this task, we will test the web app.
 
     ![Screenshot of the Welcome to Azure Container Instance page.](../images/0802.png)
 
-5. Switch back to the **Overview** blade of your web app and note that it includes several charts. If you repeat step 4 a few times, you should be able to see correspoding telemetry being displayed in the charts. This includes number of requests and average response time. 
+5. Switch back to the **Overview** blade of your web app and note that it includes several charts tracking Data In/Out and Requests. If you repeat step 4 a few times, you should be able to see correspoding telemetry being displayed in the charts. This includes number of requests and average response time. 
 
 **Note**: To avoid additional costs, you can remove this resource group. Search for resource groups, click your resource group, and then click **Delete resource group**. Verify the name of the resource group and then click **Delete**. Monitor the **Notifications** to see how the delete is proceeding.
 
