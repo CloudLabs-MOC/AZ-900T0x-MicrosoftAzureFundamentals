@@ -90,6 +90,6 @@ In this task, we will review cost saving recommendations and download a report.
 
 3. To save or print a PDF copy of the report, click **Download**.
 
-    ![Screenshot of the report pane of the tco calculator in Azure. The highlighted and completed input fields indicates how set the tco calculator timeframe to three years and the region to north europe. A graph shows the cost of on-premises infrastructure and workloads off-set against the reduced cost of using Azure.](../images/2001.png)
+    ![Screenshot of the report pane of the tco calculator in Azure. The highlighted and completed input fields indicates how set the tco calculator timeframe to three years and the region to north europe. A graph shows the cost of on-premises infrastructure and workloads off-set against the reduced cost of using Azure.](../images/AZ-900-20-1.png)
 
 Congratulations! You have used the TCO Calculator to generate a cost comparison report for an on-premises environment.

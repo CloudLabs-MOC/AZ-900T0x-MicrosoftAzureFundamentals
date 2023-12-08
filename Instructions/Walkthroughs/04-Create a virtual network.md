@@ -51,6 +51,7 @@ In this task, we will create two virtual machines in the virtual network.
    | Virtual machine name | **vm1**|
    | Region | **(US) East US** |
    | Image | **Windows Server 2019 Datacenter** |
+   | Size | **Standard D2s v3**|
    | Username| **azureuser** |
    | Password| **Pa$$w0rd1234** |
    | Public inbound ports| Select **Allow selected ports**  |

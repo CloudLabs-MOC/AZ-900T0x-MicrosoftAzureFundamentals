@@ -3,8 +3,23 @@
   "Language": "English",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/03-Deploy%20Azure%20Container%20Instances.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/LabIntro.md",
       "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/03-Deploy%20Azure%20Container%20Instances.md",
+      "Order": 2
     }
   ]
-} ]
+},
+{
+  "Name": "Deploy Azure Container Instances",
+  "Language": "Spanish",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0xES-MicrosoftAzureFundamentals/stage/Instructions/Walkthroughs/03-Deploy%20Azure%20Container%20Instances.md",
+      "Order": 2
+    }
+  ]
+}
+]

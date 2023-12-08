@@ -3,8 +3,22 @@
   "Language": "English",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/14-Manage%20access%20with%20RBAC.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/LabIntro.md",
       "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/14-Manage%20access%20with%20RBAC.md",
+      "Order": 2
     }
   ]
-} ]
+},
+{
+    "Name": "Manage access with RBAC",
+    "Language": "Spanish",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0xES-MicrosoftAzureFundamentals/stage/Instructions/Walkthroughs/14-Manage%20access%20with%20RBAC.md",
+        "Order": 2
+      }
+    ]
+  }]

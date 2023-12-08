@@ -23,27 +23,20 @@ In this task, we will configure Cloud Shell.
 
 5. When prompted, click **Create storage**, and wait for the Azure Cloud Shell to initialize. 
 
-# Task 2: Create a resource group and a virtual machine
-
+# Task 2: Use CLI to create a virtual machine
 In this task, we will use Azure CLI to create a resource group and a virtual machine.  
 
 1. Ensure **Bash** is selected in the upper-left drop-down menu of the Cloud Shell pane (and if not, select it).
 
     ![Screenshot of Azure Portal Azure Cloud Shell with the Bash dropdown highlighted.](../images/1002a.png)
 
-2. In the Bash session, within the Cloud Shell pane, create a new resource group. 
-
-    ```cli
-    az group create --name myRGCLI --location EastUS
-    ```
-
-3. Verify the resource group was created.
+2. Verify the resource group was created.
 
     ```cli
     az group list --output table
     ```
 
-4. Create a new virtual machine. Make sure that each line except for the last one is followed by the backslash (`\`) character. If you type the whole command on the same line, do not use any backslash characters. 
+3. Create a new virtual machine. Make sure that each line except for the last one is followed by the backslash (`\`) character. If you type the whole command on the same line, do not use any backslash characters. 
 
     ```cli
     az vm create \
@@ -59,14 +52,14 @@ In this task, we will use Azure CLI to create a resource group and a virtual mac
     
     **Note**: The command will take 2 to 3 minutes to complete. The command will create a virtual machine and various resources associated with it such as storage, networking and security resources. Do not continue to the next step until the virtual machine deployment is complete. 
 
-5. When the command finishes running, in the browser window, close the Cloud Shell pane.
+4. When the command finishes running, in the browser window, close the Cloud Shell pane.
 
-6. In the Azure portal, search for **Virtual machines** and verify that **myVMCLI** is running.
+5. In the Azure portal, search for **Virtual machines** and verify that **myVMCLI** is running.
 
     ![Screenshot of the virtual machines page with myVMPS in a running state.](../images/1101.png)
 
 
-# Task 3: Execute commmands in the Cloud Shell
+# Task 3: Execute commands in the Cloud Shell
 
 In this task, we will practice executing CLI commands from the Cloud Shell. 
 

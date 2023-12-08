@@ -3,8 +3,22 @@
   "Language": "English",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/13-Secure%20network%20traffic.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/LabIntro.md",
       "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/13-Secure%20network%20traffic.md",
+      "Order": 2
     }
   ]
-} ]
+},
+{
+    "Name": "Secure network traffic",
+    "Language": "Spanish",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0xES-MicrosoftAzureFundamentals/stage/Instructions/Walkthroughs/13-Secure%20network%20traffic.md",
+        "Order": 2
+      }
+    ]
+  }]

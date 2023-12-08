@@ -3,8 +3,22 @@
   "Language": "English",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/19-Use%20the%20Azure%20Pricing%20Calculator.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/LabIntro.md",
       "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/19-Use%20the%20Azure%20Pricing%20Calculator.md",
+      "Order": 2
     }
   ]
-} ]
+},
+{
+  "Name": "Use the Pricing Calculator",
+  "Language": "Spanish",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0xES-MicrosoftAzureFundamentals/stage/Instructions/Walkthroughs/19-Use%20the%20Azure%20Pricing%20Calculator.md",
+      "Order": 2
+    }
+  ]
+}]

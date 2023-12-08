@@ -3,8 +3,22 @@
   "Language": "English",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/07-Implement%20the%20Azure%20IoT%20Hub.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/LabIntro.md",
       "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/07-Implement%20the%20Azure%20IoT%20Hub.md",
+      "Order": 2
+    }
+  ]
+},
+ {
+  "Name": "Implement an Azure IoT Hub",
+  "Language": "Spanish",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0xES-MicrosoftAzureFundamentals/stage/Instructions/Walkthroughs/07-Implement%20the%20Azure%20IoT%20Hub.md",
+      "Order": 2
     }
   ]
 } ]

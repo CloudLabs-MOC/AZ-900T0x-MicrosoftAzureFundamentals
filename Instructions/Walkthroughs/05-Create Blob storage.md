@@ -24,7 +24,6 @@ In this task, we will create a new storage account.
     | Storage account name | **storageaccountxxxx** |
     | Location | **(US) East US**  |
     | Performance | **Standard** |
-    | Account kind | **StorageV2 (general purpose v2)** |
     | Replication | **Locally redundant storage (LRS)** |
     | | |
 

@@ -13,11 +13,19 @@ Our example application consists of these Azure services. We will not go in to d
 
 1. In a browser, go to the [SLA summary for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/) page.
 
-2. Locate the **App Service** SLA uptime value, **99.95%**. Click **View full details**, and then expand **SLA details**. Notice the **Monthly uptime percentages** and **Service Credits**.
+2. Don't make any changes, leave the settings as default, then select the latest version of the SLA.
 
-3. Return to the SLA webpage and locate the **Azure Active Directory B2C** service and determine the SLA uptime value, **99.9%**. 
+   ![screenshot of the SLA UI.](../images/AZ-900-year.png)
 
-4. Locate the **Application Gateway** SLA uptime value, **99.95%**. 
+3. It will re-direct you to the word file, download the file, and do press **CTRL + F** in your keyboard.
+
+   ![screenshot of the downloading the word file.](../images/AZ-900-download.png)
+
+4. Type/Search for **App Service** SLA uptime value, **99.95%**. Click **View full details**, and then expand **SLA details**. Notice the **Monthly uptime percentages** and **Service Credits**.
+
+3. Then again Type/Search for **Azure Active Directory B2C** service and determine the SLA uptime value, **99.9%**. 
+
+4. Type/Search for **Application Gateway** SLA uptime value, **99.95%**. 
 
 5. The Azure SQL database uses Premium tiers but is not configured for Zone Redundant Deployments. Locate the **Azure SQL Database** SLA uptime value, **99.99%**. 
 

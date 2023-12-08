@@ -12,9 +12,9 @@ In this task, we will estimate cost of a sample infrastructure by using the Azur
 
 2. To add details of your VM configuration, click **Virtual Machines** on the **Products** tab. Scroll down to view the virtual machine details. 
 
-3. Replace **Your Estimate** and **Virtual Machines** text with more descriptive names for your Azure Pricing Calculator estimate and your VM configuration. This walkthrough example uses **My Pricing Calculator Estimate** for the estimate, and **Windows VM** for the VM configuration.
+3. Replace **Your Estimate** and **Virtual Machines** text with more descriptive names for your Azure Pricing Calculator estimate and your VM configuration. This walkthrough example uses **My Pricing Calculator Estimate** for the estimate.
 
-   ![Screenshot of the vm configuration area within the Azure pricing calculator estimate webpage. The highlighted estimate name and vm configuration name indicate how to add an estimate name and a vm configuration name to an Azure pricing calculator estimate.](../images/1901.png)
+   ![Screenshot of the vm configuration area within the Azure pricing calculator estimate webpage. The highlighted estimate name and vm configuration name indicate how to add an estimate name and a vm configuration name to an Azure pricing calculator estimate.](../images/AZ-900-vm.png)
 
 4. Modify the default VM configuration.
 
@@ -32,15 +32,15 @@ In this task, we will estimate cost of a sample infrastructure by using the Azur
 
     **Note**: The VM instance specifications and pricing may differ from those in this example. Follow this walkthrough by choosing an instance that matches the example as closely as possible. To view details about the different VM product options, choose **Product details** from the **More info** menu on the right.
 
-5. Set the **Billing Option** to **Pay as you go**.
+5. Set the **Savings Options** to **Pay as you go**.
 
-   ![Screenshot of the vm billing options area within the Azure pricing calculator estimate webpage. The highlighted pay as you go billing option indicates how to specify a billing option for a vm within an Azure pricing calculator estimate.](../images/1903.png)
+   ![Screenshot of the vm billing options area within the Azure pricing calculator estimate webpage. The highlighted pay as you go billing option indicates how to specify a billing option for a vm within an Azure pricing calculator estimate.](../images/AZ-900lab19.1.png)
 
 6. In Azure, a month is defined as 730 hours. If your VM needs to be available 100 percent of the time each month, you set the hours-per-month value to `730`. This walkthrough example requires one VM to be available 50 percent of the time each month.
 
     Leave the number of VMs set at `1`, and change the hours-per-month value to `365`.
 
-   ![Screenshot of the vm billing options area within the Azure pricing calculator estimate webpage. The highlighted number of vm instances and hours per month options indicate how to specify the number of instances and hours per month for a vm within an Azure pricing calculator estimate.](../images/1904.png)
+   ![Screenshot of the vm billing options area within the Azure pricing calculator estimate webpage. The highlighted number of vm instances and hours per month options indicate how to specify the number of instances and hours per month for a vm within an Azure pricing calculator estimate.](../images/AZ-900lab19.2.png)
 
 7. In the **Managed OS Disks** pane, modify the default VM storage configuration.
 
@@ -56,11 +56,11 @@ In this task, we will estimate cost of a sample infrastructure by using the Azur
 
 9. Add a name for your VM bandwidth configuration. This walkthrough example uses the name **Bandwidth: Windows VM**. Modify the default bandwidth configuration by adding the following details.
 
-    | Region | Zone 1 Outbound Data Transfer Amount |
+    | Region | Outbound Data Transfer Amount |
     | ------ | -------------------------------------- |
     | North Europe | 50 GB |
 
-   ![Screenshot of the network bandwidth configuration area within the Azure pricing calculator estimate webpage. The highlighted examples of user inputted bandwidth property values indicate how to specify a bandwidth configuration for a vm within an Azure pricing calculator estimate.](../images/1907.png)
+   ![Screenshot of the network bandwidth configuration area within the Azure pricing calculator estimate webpage. The highlighted examples of user inputted bandwidth property values indicate how to specify a bandwidth configuration for a vm within an Azure pricing calculator estimate.](../images/AZ-900-bandwidthvm.png)
 
 10. To add an Application Gateway, return to the top of the Azure Pricing Calculator webpage. In the **Networking** product menu, click the **Application Gateway** tile. In the **Application Gateway** message dialog, click **View**.
 
@@ -88,7 +88,7 @@ In this task, we will estimate cost of a sample infrastructure by using the Azur
     | 50 GB |
     | | |
 
-    ![Screenshot of the application gateway configuration area within the Azure pricing calculator estimate webpage.](../images/1909.png)
+    ![Screenshot of the application gateway configuration area within the Azure pricing calculator estimate webpage.](../images/AZ-900-appgateway.png)
 
 
 # Task 2: Review the pricing estimate
@@ -101,8 +101,8 @@ In this task, we will review the results of the Azure Pricing Calculator.
 
 2. Change the currency to Euro, then select **Export** to download a copy of the estimate for offline viewing in Microsoft Excel (`.xlsx`) format.
 
-    ![Screenshot of the total estimated monthly costs within the Azure pricing calculator estimate webpage. The highlighted euro currency option indicates how to modify the currency used in an Azure pricing calculator estimate. The highlighted export option illustrates how to download a copy of an estimate for offline viewing.](../images/1910.png)
+    ![Screenshot of the total estimated monthly costs within the Azure pricing calculator estimate webpage. The highlighted euro currency option indicates how to modify the currency used in an Azure pricing calculator estimate. The highlighted export option illustrates how to download a copy of an estimate for offline viewing.](../images/AZ-900-totalcost.png)
 
-    ![Screenshot of an example Azure pricing calculator estimate in Microsoft excel.](../images/1911.png)
+    ![Screenshot of an example Azure pricing calculator estimate in Microsoft excel.](../images/AZ-900-cost.png)
 
 Congratulations! You downloaded an estimate from the Azure Pricing Calculator.

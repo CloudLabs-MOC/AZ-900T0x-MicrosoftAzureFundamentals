@@ -1,0 +1,101 @@
+[
+    {
+      "Name": "AZ-900T0x-MicrosoftAzureFundamentals",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/LabIntro.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/01-Create%20a%20virtual%20machine.md",
+          "Order": 2
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/02-Create%20a%20Web%20App.md",
+          "Order": 3
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/03-Deploy%20Azure%20Container%20Instances.md",
+            "Order": 4
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/04-Create%20a%20virtual%20network.md",
+            "Order": 5
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/05-Create%20Blob%20storage.md",
+            "Order": 6
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/06-Create%20a%20SQL%20database.md",
+            "Order": 7
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/07-Implement%20the%20Azure%20IoT%20Hub.md",
+            "Order": 8
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/08-Implement%20Azure%20Functions.md",
+            "Order": 9
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/09-Create%20a%20VM%20with%20a%20Template.md",
+            "Order": 10
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/10-Create%20a%20VM%20with%20PowerShell.md",
+            "Order": 11
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/11-Create%20a%20VM%20with%20the%20CLI.md",
+            "Order": 12
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/12-Implement%20Azure%20Key%20Vault.md",
+            "Order": 13
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/13-Secure%20network%20traffic.md",
+            "Order": 14
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/14-Manage%20access%20with%20RBAC.md",
+            "Order": 15
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/15-Manage%20resource%20locks.md",
+            "Order": 16
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/16-Implement%20resource%20tagging.md",
+            "Order": 17
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/17-Create%20an%20Azure%20Policy.md",
+            "Order": 18
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/18-Explore%20the%20Trust%20Center.md",
+            "Order": 19
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/19-Use%20the%20Azure%20Pricing%20Calculator.md",
+            "Order": 20
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/20-Use%20the%20Azure%20TCO%20Calculator.md",
+            "Order": 21
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/21-Calculate%20Composite%20SLAs.md",
+            "Order": 22
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/CloudLabs.AI/22-Open%20a%20Support%20Request.md",
+            "Order": 23
+        }
+      ]
+    }
+  ]

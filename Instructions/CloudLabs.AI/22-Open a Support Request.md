@@ -4,23 +4,24 @@ In this walkthrough, we will view available support plan options and then practi
 
 # Task 1: View available support plan options and a technical support request
 
-1. Sign in to the [**Azure portal**](https://portal.azure.com) with the Azure credentials from Lab Environment output page.
+1. Sign in to the [**Azure portal**](https://portal.azure.com) with the Username and Password provided in the Lab **Environment Details** Tab.
 
 2. From the **All services** blade, search for and select **Help + support**, then select **Support plans**.
 
-3. Take a few minutes to review the different support plans. Notice what is included in the **Basic** plan. 
+3. Take a few minutes to review the different support plans. Notice what is included in the **Basic** plan. (Need to refresh the page.)
 
-4. Click **+ New support request**. The ticket is created based on the values you specify. 
+4. Click **+ Create a support request**. The ticket is created based on the values you specify. 
 
     | Setting | Value|
     |----|--------|
     | Issue Type| **Technical** |
     | Subscription | **Choose your subscription** |
-    | Service | **All services**, **Virtual Machine running Linux** |
+    | Service | **All services** |
+    | Service type | **Virtual Machine running Linux** |
     | Resource | **General Question** |
     | Summary | **Disk access is very slow for large files** |
     | Problem type | **VM performance** |
-    | Problem subtype | **Disk throughput or IOPS is lower than expected** |    
+    | Problem subtype | **Disk throughput or IOPS are lower than expected** |    
     | | |
 
 5. Click **Next: Solutions >>** and read through the recommended solutions.
@@ -46,10 +47,12 @@ In this walkthrough, we will view available support plan options and then practi
 
 3. Click **Next: Details**.  When submitting a real support request you would provide as much information as possible to allow for a speedy resolution of the issue. 
 
-    **Note:** We will stop at this point. Do you understand how to submit a support request?
+    **Note:** We will STOP at this point. Do you understand how to submit a support request?
 
 4. Click **All support requests**. This is where your support requests are shown. An email is also sent to your email address containing details of the support request.
 
 Congratulations! You have viewed the available support plan options and practiced creating and monitoring a new support request.
 
 **Note**: Click for more information about [**creating an Azure support ticket**](https://azure.microsoft.com/en-us/support/create-ticket).
+
+Select the **Resources** tab, then in actions select deallocate to deallocate the VM, it will be Cost effective

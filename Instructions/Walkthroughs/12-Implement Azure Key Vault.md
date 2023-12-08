@@ -28,7 +28,7 @@ In this walkthrough, we will create an Azure Key vault and then create a passwor
 
 5. Once the new key vault is provisioned, click **Go to resource**. Or you can locate your new key vault by searching for it. 
 
-6. Click on the key vault **Overview** tab and take note of the **DNS name**. Applications that use your vault through the REST API will need this URI.
+6. Click on the key vault **Overview** tab and take note of the **Vault URI**. Applications that use your vault through the REST API will need this URI.
 
 7. Take a moment to browse through some of the other key vault options. Under **Settings** review **Keys**, **Secrets**, **Certificates**, **Access Policies**, **Firewalls and virtual networks**.
 
