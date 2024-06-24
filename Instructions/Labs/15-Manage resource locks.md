@@ -124,13 +124,15 @@ In this task, we will remove the resource lock and test.
    Congratulations! You created a resource group, added a lock to the resource group and tested deletion, tested deleting a resource in the resource group and removed the resource lock. 
 
    **Note** : **Wait for 10 minutes before heading to the Validation Step**
+
+<validation step="ad4f80cc-e446-4cec-abb6-071609ac684c"/>
  
    > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
    > - Click Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
    > - Hit the Validate button for the corresponding task.
    > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
    > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-<validation step="aeb5bfde-46eb-4f84-8ec7-29cd9438c2cd"/>
+
 ### Review
 In this lab, you have completed:
 - Verify the existing resource group
@@ -142,4 +144,4 @@ In this lab, you have completed:
 
 - https://learn.microsoft.com/en-us/azure/storage/common/lock-account-resource?tabs=portal
   
-## You have successfully completed this lab.
+## You have successfully completed this lab. Proceed with the next lab.
