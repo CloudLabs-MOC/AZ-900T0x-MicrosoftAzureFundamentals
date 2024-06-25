@@ -88,15 +88,15 @@ In this task, we will create storage accounts to test the required tagging.
 1. Click **Add filter** and add the **Company** tag key as the filter category. With the filter applied, only your storage account will be listed.
 
     ![Screenshot of the All Resources filter with Company selected.](../images/l16.5e.png)
-       
+
+<validation step="1abed690-3384-4756-82a5-4c5da948616c"/>
+
     >**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
     > - Navigate to the Lab Validation page from the upper right corner of the lab guide section.
     > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
     > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
     > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-<validation step="89462220-1bfd-4010-9d25-6aa484c243d8" />
-
+    
 ### Task 4: Delete the policy assignment
 
 In this task, we will remove the **Require a tag and its value on resources** policy so it does not affect our future work. 
@@ -127,4 +127,4 @@ In this lab, you have completed:
 - https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources
 - https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources-portal
   
-## You have successfully completed this lab.
+## You have successfully completed this lab. Proceed with the next lab.
