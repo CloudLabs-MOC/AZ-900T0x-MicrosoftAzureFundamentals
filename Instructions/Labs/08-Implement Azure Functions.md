@@ -35,18 +35,20 @@ In this task, we will create a Function app.
 
     | Settings | Value |
     | -- | --|
-    | Resource group | select **existing** resource group **myRGFunction-<inject key="DeploymentID" enableCopy="false"/> (1)** |
-    | Function App name | **function-<inject key="DeploymentID" enableCopy="false"/> (2)**|
-    | Publish | **Code (3)**|
-    | Runtime stack | **.NET (4)** |
-    | Version | **8 (LTS), in-process model (5)** |
-    | Operating System  | **Windows (6)**|
-    | Pricing plan | Select **Basic B1 (7)** | 
+    | Subscription | select existing Azure subscription |
+    | Resource group | select **existing** resource group **myRGFunction-<inject key="DeploymentID" enableCopy="false"/>** |
+    | Function App name | **function-<inject key="DeploymentID" enableCopy="false"/>**|
+    | Publish | **Code**|
+    | Runtime stack | **.NET** |
+    | Version | **8 (LTS), in-process model** |
+    | Region | **<inject key="Region" enableCopy="false"/>**|
+    | Operating System  | **Windows**|
+    | Pricing plan | Select **Basic B1** | 
 
-    ![](../images/image(3).png)
-    ![](../images/image(4).png)
-         
-1. After successful validation, click **Create** to begin provisioning and deploying your new **Azure Function App**.
+   ![](../images/create-funcapp-1702.png)
+   ![](../images/create-funcapp2-1702.png)
+        
+1. Click **Review + create** and, after successful validation, click **Create** to begin provisioning and deploying your new Azure Function App.
 
 1. Wait for the notification that the resource has been created, select **Go to resource**.
 
