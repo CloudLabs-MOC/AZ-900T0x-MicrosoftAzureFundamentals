@@ -96,13 +96,13 @@ In this task, we will create a network security group and associate it with the 
    >**Note**: **If the option is disabled in the dropdown for network interface associations, follow below steps:**
 
      - Go to the **simplewinvmxxx** network interface, select **Network Security Group (1)** under settings. You will see the currently selected NSG; click on it **(2)**, choose **None (3)** from the dropdown, and Click on **save (4)**.
+  
+        ![](../images/choose-nsg.png)
 
       - Navigate back to **myNSGSecure** Network security group then under **Settings** click **Network interfaces** and then **Associate**.
 
       - Select the **network interface** you identified in the previous task, and then Click **Ok**.
 
-      ![](../images/choose-nsg.png)
-  
 ### Task 3: Configure an inbound security port rule to allow RDP
 
 In this task, we will allow RDP traffic to the virtual machine by configuring an inbound security port rule. 
