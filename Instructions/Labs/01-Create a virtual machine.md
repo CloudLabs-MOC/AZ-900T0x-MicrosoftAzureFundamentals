@@ -44,7 +44,7 @@ In this task, we will create a Windows Server 2019 Datacenter - Gen2 virtual mac
     | Location | **<inject key="Region" enableCopy="false"/>** (4)|
     | Image | **Windows Server 2025 Datacenter - x64 Gen2** (5)|
 
-     ![](./images/az900-1.png)
+     ![](./images/myvm.png)
 
     | Settings | Values |
     |  -- | -- |     
