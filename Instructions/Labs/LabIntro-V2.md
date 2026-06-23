@@ -80,7 +80,9 @@ Please make sure to use the CTRL+SHIFT+V or CTRL+V keys when pasting commands in
    - **Password:** <inject key="AzureAdUserPassword"></inject>
  
       ![Enter Your Password](../images/sc900-image-2.png)
- 
+
+>**Note:** If you’re asked to enter a Temporary Access Pass instead of a Password when signing in to the Azure portal, don’t worry, You can find it as **Password** under the Environment Details tab.
+
 ## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
 
 1. At the **"More information required"** prompt, select **Next**.
